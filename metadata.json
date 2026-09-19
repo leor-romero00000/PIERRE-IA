@@ -1,0 +1,6 @@
+{
+  "name": "PIERRE Atelier - Chef Virtual",
+  "description": "Asistente de Inteligencia Culinaria, Escandallo y Gestión de Costes de Alta Gastronomía.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
